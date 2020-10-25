@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 8b05a53cdb3849d468b84c9afecc4412
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6830807928518399666
+    second: Pixtogether_Enemy02_Attack_0
+  - first:
+      213: 6578556349613655892
+    second: Pixtogether_Enemy02_Attack_1
+  - first:
+      213: -1413062978274001383
+    second: Pixtogether_Enemy02_Attack_2
+  - first:
+      213: -3972771932574622354
+    second: Pixtogether_Enemy02_Attack_3
+  - first:
+      213: -264720337755106760
+    second: Pixtogether_Enemy02_Attack_4
+  - first:
+      213: -4031792997527875121
+    second: Pixtogether_Enemy02_Attack_5
+  - first:
+      213: 3495820117721140532
+    second: Pixtogether_Enemy02_Attack_6
+  - first:
+      213: 1148825848846856385
+    second: Pixtogether_Enemy02_Attack_7
+  - first:
+      213: -85677186514176454
+    second: Pixtogether_Enemy02_Attack_8
+  - first:
+      213: -5450777478080435111
+    second: Pixtogether_Enemy02_Attack_9
+  - first:
+      213: -3124857178108476760
+    second: Pixtogether_Enemy02_Attack_10
+  - first:
+      213: -7688223650313590386
+    second: Pixtogether_Enemy02_Attack_11
+  - first:
+      213: 709162856120959556
+    second: Pixtogether_Enemy02_Attack_12
+  - first:
+      213: 3797282299647422633
+    second: Pixtogether_Enemy02_Attack_13
+  - first:
+      213: -4925298044159743689
+    second: Pixtogether_Enemy02_Attack_14
+  - first:
+      213: 1569771565337204828
+    second: Pixtogether_Enemy02_Attack_15
+  - first:
+      213: -4898691677172555247
+    second: Pixtogether_Enemy02_Attack_16
+  - first:
+      213: 6665829384608985027
+    second: Pixtogether_Enemy02_Attack_17
+  - first:
+      213: -5142292611694933307
+    second: Pixtogether_Enemy02_Attack_18
+  - first:
+      213: -6422463981953316126
+    second: Pixtogether_Enemy02_Attack_19
+  - first:
+      213: 2670084984197118203
+    second: Pixtogether_Enemy02_Attack_20
+  - first:
+      213: 8785972369794096943
+    second: Pixtogether_Enemy02_Attack_21
+  - first:
+      213: 6075501739474735355
+    second: Pixtogether_Enemy02_Attack_22
+  - first:
+      213: -5761660276714309896
+    second: Pixtogether_Enemy02_Attack_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 43
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e492db351681431a0800000000000000
+      internalID: -6830807928518399666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 43
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457cc91352abb4b50800000000000000
+      internalID: 6578556349613655892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef8be35bac36ce0800000000000000
+      internalID: -1413062978274001383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5f39d9f0edd8c0800000000000000
+      internalID: -3972771932574622354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832194f5146835cf0800000000000000
+      internalID: -264720337755106760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1917e41a13c08c0800000000000000
+      internalID: -4031792997527875121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dce6b10e5a38030800000000000000
+      internalID: 3495820117721140532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0bd45d50371ff00800000000000000
+      internalID: 1148825848846856385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b7748d0d9fcef0800000000000000
+      internalID: -85677186514176454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ce05d53c2fa54b0800000000000000
+      internalID: -5450777478080435111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c305e3f642a4d0800000000000000
+      internalID: -3124857178108476760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892d41f251fd4590800000000000000
+      internalID: -7688223650313590386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442cdfe3cd377d900800000000000000
+      internalID: 709162856120959556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 16
+        width: 43
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0fc56f128a2b430800000000000000
+      internalID: 3797282299647422633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 16
+        width: 43
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739aee03683d5abb0800000000000000
+      internalID: -4925298044159743689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 16
+        width: 43
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58de62fbe2f8c510800000000000000
+      internalID: 1569771565337204828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 16
+        width: 43
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112a7fdbfd9540cb0800000000000000
+      internalID: -4898691677172555247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 16
+        width: 44
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfaafa1288c18c50800000000000000
+      internalID: 6665829384608985027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 16
+        width: 44
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cacecc5d18e2a8b0800000000000000
+      internalID: -5142292611694933307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8eec3903ded6a0800000000000000
+      internalID: -6422463981953316126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87c2b752c0e0520800000000000000
+      internalID: 2670084984197118203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 16
+        width: 43
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f59fbf15b0ee970800000000000000
+      internalID: 8785972369794096943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 16
+        width: 43
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0d8a584a4805450800000000000000
+      internalID: 6075501739474735355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 16
+        width: 43
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f6f141887a00b0800000000000000
+      internalID: -5761660276714309896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

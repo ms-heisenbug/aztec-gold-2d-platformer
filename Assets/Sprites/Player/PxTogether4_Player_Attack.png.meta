@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 51173f951751270479c2b11dcfadeb19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8957910854722644639
+    second: PxTogether4_Player_Attack_0
+  - first:
+      213: -495428451437858336
+    second: PxTogether4_Player_Attack_1
+  - first:
+      213: 2691614972185527286
+    second: PxTogether4_Player_Attack_2
+  - first:
+      213: -7847398658311785296
+    second: PxTogether4_Player_Attack_3
+  - first:
+      213: -4652505005870731574
+    second: PxTogether4_Player_Attack_4
+  - first:
+      213: 3834768308908364682
+    second: PxTogether4_Player_Attack_5
+  - first:
+      213: 9166286053245646338
+    second: PxTogether4_Player_Attack_6
+  - first:
+      213: -8717471247398455299
+    second: PxTogether4_Player_Attack_7
+  - first:
+      213: -7856313719110074473
+    second: PxTogether4_Player_Attack_8
+  - first:
+      213: -8707806531557675372
+    second: PxTogether4_Player_Attack_9
+  - first:
+      213: -7869592682109786660
+    second: PxTogether4_Player_Attack_10
+  - first:
+      213: -7544003416666786607
+    second: PxTogether4_Player_Attack_0
+  - first:
+      213: 1450945863756283426
+    second: PxTogether4_Player_Attack_1
+  - first:
+      213: 478342192850219085
+    second: PxTogether4_Player_Attack_2
+  - first:
+      213: -3975945925845409567
+    second: PxTogether4_Player_Attack_3
+  - first:
+      213: 7345824473214170678
+    second: PxTogether4_Player_Attack_4
+  - first:
+      213: -2112515308871961369
+    second: PxTogether4_Player_Attack_5
+  - first:
+      213: -8352515601230968926
+    second: PxTogether4_Player_Attack_6
+  - first:
+      213: 3572366967597738433
+    second: PxTogether4_Player_Attack_7
+  - first:
+      213: 7820344798289085954
+    second: PxTogether4_Player_Attack_8
+  - first:
+      213: -5164874357258710842
+    second: PxTogether4_Player_Attack_9
+  - first:
+      213: 8421413285922876700
+    second: PxTogether4_Player_Attack_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 21
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43e35ccd05e4790800000000000000
+      internalID: -7544003416666786607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 23
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef38d539bc22410800000000000000
+      internalID: 1450945863756283426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 16
+        width: 23
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d403be5a0b963a600800000000000000
+      internalID: 478342192850219085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 16
+        width: 23
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a2d3fe3a92d8c0800000000000000
+      internalID: -3975945925845409567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 27
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6363d44407c91f560800000000000000
+      internalID: 7345824473214170678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 16
+        width: 25
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4bc18e486dea2e0800000000000000
+      internalID: -2112515308871961369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 25
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a748bf6057e51c80800000000000000
+      internalID: -8352515601230968926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 16
+        width: 25
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9a00f64d8939130800000000000000
+      internalID: 3572366967597738433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 16
+        width: 25
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206481bf822778c60800000000000000
+      internalID: 7820344798289085954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 16
+        width: 22
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01212032ea258b0800000000000000
+      internalID: -5164874357258710842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 16
+        width: 21
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2036d3ceded470800000000000000
+      internalID: 8421413285922876700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

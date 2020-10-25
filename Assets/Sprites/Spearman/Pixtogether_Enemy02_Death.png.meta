@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 46c42beb0fb7043448cad695eed75420
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5797690994572560875
+    second: Pixtogether_Enemy02_Death_0
+  - first:
+      213: -3666522912237004842
+    second: Pixtogether_Enemy02_Death_1
+  - first:
+      213: -6177573834155551358
+    second: Pixtogether_Enemy02_Death_2
+  - first:
+      213: 666838733498861665
+    second: Pixtogether_Enemy02_Death_3
+  - first:
+      213: -7440981472762362963
+    second: Pixtogether_Enemy02_Death_4
+  - first:
+      213: 8673649222886666988
+    second: Pixtogether_Enemy02_Death_5
+  - first:
+      213: -7958118741712195838
+    second: Pixtogether_Enemy02_Death_6
+  - first:
+      213: -7414887320209964197
+    second: Pixtogether_Enemy02_Death_7
+  - first:
+      213: 1424905308605636108
+    second: Pixtogether_Enemy02_Death_8
+  - first:
+      213: 4598735450030763582
+    second: Pixtogether_Enemy02_Death_9
+  - first:
+      213: -5404906765663755243
+    second: Pixtogether_Enemy02_Death_10
+  - first:
+      213: 2546861559473055482
+    second: Pixtogether_Enemy02_Death_11
+  - first:
+      213: 7462107252662916368
+    second: Pixtogether_Enemy02_Death_12
+  - first:
+      213: 5601948150462200456
+    second: Pixtogether_Enemy02_Death_13
+  - first:
+      213: 2795610551873130459
+    second: Pixtogether_Enemy02_Death_14
+  - first:
+      213: 6531608885354136969
+    second: Pixtogether_Enemy02_Death_15
+  - first:
+      213: 8065444866612068941
+    second: Pixtogether_Enemy02_Death_16
+  - first:
+      213: 2941234076547364461
+    second: Pixtogether_Enemy02_Death_17
+  - first:
+      213: 5656346799275240944
+    second: Pixtogether_Enemy02_Death_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 43
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be98af8fd39857050800000000000000
+      internalID: 5797690994572560875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 42
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7584f56d4ed1dc0800000000000000
+      internalID: -3666522912237004842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 16
+        width: 41
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851969f359d44aa0800000000000000
+      internalID: -6177573834155551358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16
+        width: 41
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168cba88b46114900800000000000000
+      internalID: 666838733498861665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 16
+        width: 41
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38cb746c25cb890800000000000000
+      internalID: -7440981472762362963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 16
+        width: 41
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2b084630efe5870800000000000000
+      internalID: 8673649222886666988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 16
+        width: 41
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fadd71b251f8190800000000000000
+      internalID: -7958118741712195838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 16
+        width: 43
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53465d9447091990800000000000000
+      internalID: -7414887320209964197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 16
+        width: 43
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed10624d746c310800000000000000
+      internalID: 1424905308605636108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 16
+        width: 43
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6413d68df1df30800000000000000
+      internalID: 4598735450030763582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 16
+        width: 43
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514a18cdee9edf4b0800000000000000
+      internalID: -5404906765663755243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 16
+        width: 43
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af62d703815485320800000000000000
+      internalID: 2546861559473055482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 16
+        width: 43
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d6d6a20bbe8760800000000000000
+      internalID: 7462107252662916368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 16
+        width: 43
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab476992e1ebd40800000000000000
+      internalID: 5601948150462200456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_14
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 16
+        width: 43
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4bb23cf00cc620800000000000000
+      internalID: 2795610551873130459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 16
+        width: 43
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985815fdcafe4aa50800000000000000
+      internalID: 6531608885354136969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 16
+        width: 43
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4209e5af573eef60800000000000000
+      internalID: 8065444866612068941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_17
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 16
+        width: 43
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6631ed2fcc51d820800000000000000
+      internalID: 2941234076547364461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether_Enemy02_Death_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 16
+        width: 43
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde73102716f7e40800000000000000
+      internalID: 5656346799275240944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

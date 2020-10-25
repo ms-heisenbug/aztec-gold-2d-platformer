@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 3fb20787dfd040340aa374bbc8e20176
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1278878120882718554
+    second: Pixtogether4_Torch_0
+  - first:
+      213: -2714085314153867699
+    second: Pixtogether4_Torch_1
+  - first:
+      213: -2266308360294348790
+    second: Pixtogether4_Torch_2
+  - first:
+      213: -6604543137902812448
+    second: Pixtogether4_Torch_3
+  - first:
+      213: -9145300637022811964
+    second: Pixtogether4_Torch_4
+  - first:
+      213: -6308172473452336606
+    second: Pixtogether4_Torch_5
+  - first:
+      213: -6231999996330740356
+    second: Pixtogether4_Torch_6
+  - first:
+      213: 984405313330746216
+    second: Pixtogether4_Torch_7
+  - first:
+      213: 6285685032039440038
+    second: Pixtogether4_Torch_8
+  - first:
+      213: -7728579930055453696
+    second: Pixtogether4_Torch_9
+  - first:
+      213: -6135549173611722507
+    second: Pixtogether4_Torch_10
+  - first:
+      213: 9159840502475571485
+    second: Pixtogether4_Torch_11
+  - first:
+      213: -7869036454426410139
+    second: Pixtogether4_Torch_12
+  - first:
+      213: 1716420615854465756
+    second: Pixtogether4_Torch_13
+  - first:
+      213: -1682334145169392824
+    second: Pixtogether4_Torch_14
+  - first:
+      213: 3322216105383281529
+    second: Pixtogether4_Torch_15
+  - first:
+      213: -4201143907421919886
+    second: Pixtogether4_Torch_16
+  - first:
+      213: -4802651867430793304
+    second: Pixtogether4_Torch_17
+  - first:
+      213: 3831826768899377265
+    second: Pixtogether4_Torch_18
+  - first:
+      213: -3486183197910304888
+    second: Pixtogether4_Torch_19
+  - first:
+      213: 8437418496533064446
+    second: Pixtogether4_Torch_20
+  - first:
+      213: 1340064970030441733
+    second: Pixtogether4_Torch_21
+  - first:
+      213: -6099532671004501195
+    second: Pixtogether4_Torch_22
+  - first:
+      213: -1732903211724522633
+    second: Pixtogether4_Torch_23
+  - first:
+      213: -8484603347063388108
+    second: Pixtogether4_Torch_24
+  - first:
+      213: 3438522523132764957
+    second: Pixtogether4_Torch_25
+  - first:
+      213: 3412438718078542982
+    second: Pixtogether4_Torch_26
+  - first:
+      213: 6005514506492835884
+    second: Pixtogether4_Torch_27
+  - first:
+      213: 5942057314070795924
+    second: Pixtogether4_Torch_28
+  - first:
+      213: -47155552275427308
+    second: Pixtogether4_Torch_29
+  - first:
+      213: 4979215095258567978
+    second: Pixtogether4_Torch_30
+  - first:
+      213: 3267340827067090309
+    second: Pixtogether4_Torch_31
+  - first:
+      213: 4520726920721614530
+    second: Pixtogether4_Torch_32
+  - first:
+      213: 3574287213161571215
+    second: Pixtogether4_Torch_33
+  - first:
+      213: -8093377458742028803
+    second: Pixtogether4_Torch_34
+  - first:
+      213: -865978119939890233
+    second: Pixtogether4_Torch_35
+  - first:
+      213: 4331770643307632658
+    second: Pixtogether4_Torch_36
+  - first:
+      213: -6876276253469428514
+    second: Pixtogether4_Torch_37
+  - first:
+      213: -1931213663258518516
+    second: Pixtogether4_Torch_38
+  - first:
+      213: -2523386228919421420
+    second: Pixtogether4_Torch_39
+  - first:
+      213: -1724927844937242028
+    second: Pixtogether4_Torch_40
+  - first:
+      213: -5291316015556425971
+    second: Pixtogether4_Torch_41
+  - first:
+      213: 8516604576244363924
+    second: Pixtogether4_Torch_42
+  - first:
+      213: -6273671536920308871
+    second: Pixtogether4_Torch_43
+  - first:
+      213: 1081657616705629920
+    second: Pixtogether4_Torch_44
+  - first:
+      213: -7363514782811592608
+    second: Pixtogether4_Torch_45
+  - first:
+      213: -8335631403649502393
+    second: Pixtogether4_Torch_46
+  - first:
+      213: -7925225141840136573
+    second: Pixtogether4_Torch_47
+  - first:
+      213: 6504839020956619086
+    second: Pixtogether4_Torch_48
+  - first:
+      213: 6082663865251558493
+    second: Pixtogether4_Torch_49
+  - first:
+      213: 6379015560176376278
+    second: Pixtogether4_Torch_50
+  - first:
+      213: -8591780171259714223
+    second: Pixtogether4_Torch_51
+  - first:
+      213: 6862346134143762720
+    second: Pixtogether4_Torch_52
+  - first:
+      213: -8639346767353401549
+    second: Pixtogether4_Torch_53
+  - first:
+      213: 7358748868452273960
+    second: Pixtogether4_Torch_54
+  - first:
+      213: -3663794717611817188
+    second: Pixtogether4_Torch_55
+  - first:
+      213: -2574342821662712006
+    second: Pixtogether4_Torch_56
+  - first:
+      213: 5301241751292754980
+    second: Pixtogether4_Torch_57
+  - first:
+      213: 732464872474044076
+    second: Pixtogether4_Torch_58
+  - first:
+      213: -7587360129469941087
+    second: Pixtogether4_Torch_59
+  - first:
+      213: 1706193981933842990
+    second: Pixtogether4_Torch_60
+  - first:
+      213: 1993993872815180757
+    second: Pixtogether4_Torch_61
+  - first:
+      213: -7428973309742021166
+    second: Pixtogether4_Torch_62
+  - first:
+      213: -8077701612988422408
+    second: Pixtogether4_Torch_63
+  - first:
+      213: 5075030207969903349
+    second: Pixtogether4_Torch_64
+  - first:
+      213: 8304475672941890199
+    second: Pixtogether4_Torch_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 15
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22f892203f754a0800000000000000
+      internalID: -6604543137902812448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bfaa3220627a8e0800000000000000
+      internalID: -1682334145169392824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973c37c22f1ea1e20800000000000000
+      internalID: 3322216105383281529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887fe922ad69e9fc0800000000000000
+      internalID: -3486183197910304888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d132287440618bf20800000000000000
+      internalID: 3438522523132764957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f5f400afd75350800000000000000
+      internalID: 6005514506492835884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e8b1fc7d6bf3f0800000000000000
+      internalID: -865978119939890233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_37
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 17
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43086fd2f8290a0800000000000000
+      internalID: -6876276253469428514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_42
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f28b3dbe013670800000000000000
+      internalID: 8516604576244363924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 14
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686d20915a8fc990800000000000000
+      internalID: -7363514782811592608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74371e60763e15c80800000000000000
+      internalID: -8335631403649502393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386bf9f19b1f30290800000000000000
+      internalID: -7925225141840136573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547c60ee86f96450800000000000000
+      internalID: 6082663865251558493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99001cad0d68850800000000000000
+      internalID: 6379015560176376278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_51
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 14
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e1d7947dd3c880800000000000000
+      internalID: -8591780171259714223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_52
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 22
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210a636373fb3f50800000000000000
+      internalID: 6862346134143762720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_53
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f2b7863efda1880800000000000000
+      internalID: -8639346767353401549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_56
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f97b8d7d8164cd0800000000000000
+      internalID: -2574342821662712006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_58
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca66446bbec3a2a00800000000000000
+      internalID: 732464872474044076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_59
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7bfb692844b690800000000000000
+      internalID: -7587360129469941087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_61
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 16
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4479dcd61cab10800000000000000
+      internalID: 1993993872815180757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 15
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d508fa922cf6e890800000000000000
+      internalID: -7428973309742021166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 15
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6a9343e2d36ef80800000000000000
+      internalID: -8077701612988422408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_64
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f24c62e5112e6640800000000000000
+      internalID: 5075030207969903349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Torch_65
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a039320ac6f3370800000000000000
+      internalID: 8304475672941890199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

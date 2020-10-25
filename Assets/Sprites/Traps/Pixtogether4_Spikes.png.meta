@@ -1,0 +1,1480 @@
+fileFormatVersion: 2
+guid: 42706cb1937e6bc4f99feb531a7b4c29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3271776908972856986
+    second: Pixtogether4_Spikes_0
+  - first:
+      213: -1620000431305058001
+    second: Pixtogether4_Spikes_1
+  - first:
+      213: 7273544145113771814
+    second: Pixtogether4_Spikes_2
+  - first:
+      213: -6427988354841400884
+    second: Pixtogether4_Spikes_3
+  - first:
+      213: -2541046183746509967
+    second: Pixtogether4_Spikes_4
+  - first:
+      213: -6373963812603510002
+    second: Pixtogether4_Spikes_5
+  - first:
+      213: 2213428917355654149
+    second: Pixtogether4_Spikes_6
+  - first:
+      213: 2321040712643293371
+    second: Pixtogether4_Spikes_7
+  - first:
+      213: 4620713389023099079
+    second: Pixtogether4_Spikes_8
+  - first:
+      213: 5114756354001324674
+    second: Pixtogether4_Spikes_9
+  - first:
+      213: 5813879888844511399
+    second: Pixtogether4_Spikes_10
+  - first:
+      213: 6997704781099305285
+    second: Pixtogether4_Spikes_11
+  - first:
+      213: 3950765924969342354
+    second: Pixtogether4_Spikes_12
+  - first:
+      213: 5481420442719873657
+    second: Pixtogether4_Spikes_13
+  - first:
+      213: -3877667548770989674
+    second: Pixtogether4_Spikes_14
+  - first:
+      213: -1295836557238344685
+    second: Pixtogether4_Spikes_15
+  - first:
+      213: -5580887780018885703
+    second: Pixtogether4_Spikes_16
+  - first:
+      213: 4137802186770969073
+    second: Pixtogether4_Spikes_17
+  - first:
+      213: 6994721821997333763
+    second: Pixtogether4_Spikes_18
+  - first:
+      213: 9003536874831059728
+    second: Pixtogether4_Spikes_19
+  - first:
+      213: -4722259114472449395
+    second: Pixtogether4_Spikes_20
+  - first:
+      213: -2718189096075172773
+    second: Pixtogether4_Spikes_21
+  - first:
+      213: -8556093680110070343
+    second: Pixtogether4_Spikes_22
+  - first:
+      213: 2705813861359142562
+    second: Pixtogether4_Spikes_23
+  - first:
+      213: 5250307221252953179
+    second: Pixtogether4_Spikes_24
+  - first:
+      213: 7014724771359478486
+    second: Pixtogether4_Spikes_25
+  - first:
+      213: -3516159105014819580
+    second: Pixtogether4_Spikes_26
+  - first:
+      213: 7628744523789159177
+    second: Pixtogether4_Spikes_27
+  - first:
+      213: -3354092230990125032
+    second: Pixtogether4_Spikes_28
+  - first:
+      213: -3325929965520755476
+    second: Pixtogether4_Spikes_29
+  - first:
+      213: -2466465013355420036
+    second: Pixtogether4_Spikes_30
+  - first:
+      213: -5236796323026545307
+    second: Pixtogether4_Spikes_31
+  - first:
+      213: -1610076652597382937
+    second: Pixtogether4_Spikes_32
+  - first:
+      213: -5012059719308071349
+    second: Pixtogether4_Spikes_33
+  - first:
+      213: -5132078152780928023
+    second: Pixtogether4_Spikes_34
+  - first:
+      213: 6831159774747252137
+    second: Pixtogether4_Spikes_35
+  - first:
+      213: -8983501986974660707
+    second: Pixtogether4_Spikes_36
+  - first:
+      213: -2988313371267775683
+    second: Pixtogether4_Spikes_37
+  - first:
+      213: -2983684311361015935
+    second: Pixtogether4_Spikes_38
+  - first:
+      213: -1517148207688943907
+    second: Pixtogether4_Spikes_39
+  - first:
+      213: 3898427421118748067
+    second: Pixtogether4_Spikes_40
+  - first:
+      213: 3382391732409464541
+    second: Pixtogether4_Spikes_41
+  - first:
+      213: -3676607352966982338
+    second: Pixtogether4_Spikes_42
+  - first:
+      213: 3122560392260295656
+    second: Pixtogether4_Spikes_43
+  - first:
+      213: -6994341753118869117
+    second: Pixtogether4_Spikes_44
+  - first:
+      213: -948750547634685223
+    second: Pixtogether4_Spikes_45
+  - first:
+      213: -751860859559500433
+    second: Pixtogether4_Spikes_46
+  - first:
+      213: -6111710459743373238
+    second: Pixtogether4_Spikes_47
+  - first:
+      213: -2753551277529282478
+    second: Pixtogether4_Spikes_48
+  - first:
+      213: 2186432177569161239
+    second: Pixtogether4_Spikes_49
+  - first:
+      213: 3318138864666568716
+    second: Pixtogether4_Spikes_50
+  - first:
+      213: -8637881877553684166
+    second: Pixtogether4_Spikes_51
+  - first:
+      213: -5759692033282586697
+    second: Pixtogether4_Spikes_52
+  - first:
+      213: 4405940908377962224
+    second: Pixtogether4_Spikes_53
+  - first:
+      213: 7286456925929076910
+    second: Pixtogether4_Spikes_54
+  - first:
+      213: -3645443372600836467
+    second: Pixtogether4_Spikes_55
+  - first:
+      213: -4989295808948069294
+    second: Pixtogether4_Spikes_56
+  - first:
+      213: -8820649413147675998
+    second: Pixtogether4_Spikes_57
+  - first:
+      213: -5022817355894219801
+    second: Pixtogether4_Spikes_58
+  - first:
+      213: 3485481407350747569
+    second: Pixtogether4_Spikes_59
+  - first:
+      213: -5068415842360990305
+    second: Pixtogether4_Spikes_60
+  - first:
+      213: 4481057201743196064
+    second: Pixtogether4_Spikes_61
+  - first:
+      213: -5917309566022284490
+    second: Pixtogether4_Spikes_62
+  - first:
+      213: 2770651913883677359
+    second: Pixtogether4_Spikes_63
+  - first:
+      213: 6081786812509961942
+    second: Pixtogether4_Spikes_64
+  - first:
+      213: -5653262770317566906
+    second: Pixtogether4_Spikes_65
+  - first:
+      213: -4206041063836001422
+    second: Pixtogether4_Spikes_66
+  - first:
+      213: -3042248295829793280
+    second: Pixtogether4_Spikes_67
+  - first:
+      213: -7558290429763122018
+    second: Pixtogether4_Spikes_68
+  - first:
+      213: -1353486463401714640
+    second: Pixtogether4_Spikes_69
+  - first:
+      213: -5963802909043014329
+    second: Pixtogether4_Spikes_70
+  - first:
+      213: 97857768588923225
+    second: Pixtogether4_Spikes_71
+  - first:
+      213: 6883590588292331607
+    second: Pixtogether4_Spikes_72
+  - first:
+      213: 1456129530481994393
+    second: Pixtogether4_Spikes_73
+  - first:
+      213: 7976948187841663993
+    second: Pixtogether4_Spikes_74
+  - first:
+      213: 7201196555444450020
+    second: Pixtogether4_Spikes_75
+  - first:
+      213: 1526322030542750102
+    second: Pixtogether4_Spikes_76
+  - first:
+      213: -8188219135466828832
+    second: Pixtogether4_Spikes_77
+  - first:
+      213: -6229355533947322681
+    second: Pixtogether4_Spikes_78
+  - first:
+      213: 2790590954791377173
+    second: Pixtogether4_Spikes_79
+  - first:
+      213: 6895862910246097476
+    second: Pixtogether4_Spikes_80
+  - first:
+      213: 740172170346818327
+    second: Pixtogether4_Spikes_81
+  - first:
+      213: 2402662910630604847
+    second: Pixtogether4_Spikes_82
+  - first:
+      213: -2055068342546019827
+    second: Pixtogether4_Spikes_83
+  - first:
+      213: 2520176781698673738
+    second: Pixtogether4_Spikes_84
+  - first:
+      213: 8402786407503363433
+    second: Pixtogether4_Spikes_85
+  - first:
+      213: -3948490096525826396
+    second: Pixtogether4_Spikes_86
+  - first:
+      213: -6798260184972810968
+    second: Pixtogether4_Spikes_87
+  - first:
+      213: -4724938537205011117
+    second: Pixtogether4_Spikes_88
+  - first:
+      213: -879660091356249336
+    second: Pixtogether4_Spikes_89
+  - first:
+      213: 5999388684534692506
+    second: Pixtogether4_Spikes_90
+  - first:
+      213: 5056092381742214605
+    second: Pixtogether4_Spikes_91
+  - first:
+      213: 677842982919250363
+    second: Pixtogether4_Spikes_92
+  - first:
+      213: -15438175108848408
+    second: Pixtogether4_Spikes_93
+  - first:
+      213: -8850685988314695653
+    second: Pixtogether4_Spikes_94
+  - first:
+      213: -5290045007891786097
+    second: Pixtogether4_Spikes_95
+  - first:
+      213: 4478640169114851687
+    second: Pixtogether4_Spikes_96
+  - first:
+      213: 2588542759126585226
+    second: Pixtogether4_Spikes_97
+  - first:
+      213: -7421124267834721906
+    second: Pixtogether4_Spikes_98
+  - first:
+      213: -665433537319386979
+    second: Pixtogether4_Spikes_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9617ab93cfa76d20800000000000000
+      internalID: 3271776908972856986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29151cd03a9489e0800000000000000
+      internalID: -1620000431305058001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe0a3fcd1d0f460800000000000000
+      internalID: 7273544145113771814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a451f5a23bc6a0800000000000000
+      internalID: -6427988354841400884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1736deb75f36cbcd0800000000000000
+      internalID: -2541046183746509967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c292eea12b87a0800000000000000
+      internalID: -6373963812603510002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50caf828fdda7be10800000000000000
+      internalID: 2213428917355654149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b2521b3ef53020800000000000000
+      internalID: 2321040712643293371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8fc918852102040800000000000000
+      internalID: 4620713389023099079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acbe80ec34bf640800000000000000
+      internalID: 5114756354001324674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85d55a4fc0fa050800000000000000
+      internalID: 5813879888844511399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5490a784c67dc1160800000000000000
+      internalID: 6997704781099305285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e38c3da0f3d630800000000000000
+      internalID: 3950765924969342354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae1e0d9dae11c40800000000000000
+      internalID: 5481420442719873657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699027eb8e1cf2ac0800000000000000
+      internalID: -3877667548770989674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314e7de4483440ee0800000000000000
+      internalID: -1295836557238344685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe7a40224bc82b0800000000000000
+      internalID: -5580887780018885703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f171557a2d6c6930800000000000000
+      internalID: 4137802186770969073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df2deff6e321160800000000000000
+      internalID: 6994721821997333763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b9f6ab51df2fc70800000000000000
+      internalID: 9003536874831059728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ad480ea5a277eb0800000000000000
+      internalID: -4722259114472449395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5469103b6d074ad0800000000000000
+      internalID: -2718189096075172773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5131c4126a24980800000000000000
+      internalID: -8556093680110070343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c3a2fe5bfc8520800000000000000
+      internalID: 2705813861359142562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b545374b996dcd840800000000000000
+      internalID: 5250307221252953179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d302930f495160800000000000000
+      internalID: 7014724771359478486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40516d36ce7143fc0800000000000000
+      internalID: -3516159105014819580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bc8aeb9bebed960800000000000000
+      internalID: 7628744523789159177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818afebf2eed371d0800000000000000
+      internalID: -3354092230990125032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ee41615ce7d1d0800000000000000
+      internalID: -3325929965520755476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c766504632b55cdd0800000000000000
+      internalID: -2466465013355420036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655eec6d792357b0800000000000000
+      internalID: -5236796323026545307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e078c4a0dbd7a9e0800000000000000
+      internalID: -1610076652597382937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e29958d36917ab0800000000000000
+      internalID: -5012059719308071349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb23f76c1237c8b0800000000000000
+      internalID: -5132078152780928023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a55fb14f972dce50800000000000000
+      internalID: 6831159774747252137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d970c5b1a80345380800000000000000
+      internalID: -8983501986974660707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33c80452d06786d0800000000000000
+      internalID: -2988313371267775683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fab635de2d796d0800000000000000
+      internalID: -2983684311361015935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd674194eb102fae0800000000000000
+      internalID: -1517148207688943907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5dc62b51ff91630800000000000000
+      internalID: 3898427421118748067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6fb752c5ba0fe20800000000000000
+      internalID: 3382391732409464541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3550db87111afcc0800000000000000
+      internalID: -3676607352966982338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb116af120955b20800000000000000
+      internalID: 3122560392260295656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389baafab3b1fee90800000000000000
+      internalID: -6994341753118869117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf6c3576c55d2f0800000000000000
+      internalID: -948750547634685223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65af61288ad095f0800000000000000
+      internalID: -751860859559500433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48f4f4d7b7de2ba0800000000000000
+      internalID: -6111710459743373238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2584b08b3bb69c9d0800000000000000
+      internalID: -2753551277529282478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Spikes_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 8
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7106e753b74c75e10800000000000000
+      internalID: 2186432177569161239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

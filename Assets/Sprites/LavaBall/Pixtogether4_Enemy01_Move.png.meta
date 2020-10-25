@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 1b4ff7dc744ffa84db8a1c1cdde67ab3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2394311956421752796
+    second: Pixtogether4_Enemy01_Move_0
+  - first:
+      213: 8707910307163572867
+    second: Pixtogether4_Enemy01_Move_1
+  - first:
+      213: -6871174461419115458
+    second: Pixtogether4_Enemy01_Move_2
+  - first:
+      213: 4814302439106961537
+    second: Pixtogether4_Enemy01_Move_3
+  - first:
+      213: -3732087758030511385
+    second: Pixtogether4_Enemy01_Move_4
+  - first:
+      213: 5881104535062086758
+    second: Pixtogether4_Enemy01_Move_5
+  - first:
+      213: 1031555530121317902
+    second: Pixtogether4_Enemy01_Move_6
+  - first:
+      213: 9113011878519399510
+    second: Pixtogether4_Enemy01_Move_7
+  - first:
+      213: -230377424053503552
+    second: Pixtogether4_Enemy01_Move_8
+  - first:
+      213: 2326505211977797249
+    second: Pixtogether4_Enemy01_Move_9
+  - first:
+      213: -6625501127797660177
+    second: Pixtogether4_Enemy01_Move_10
+  - first:
+      213: -4251571812307781563
+    second: Pixtogether4_Enemy01_Move_11
+  - first:
+      213: 4526146364081433126
+    second: Pixtogether4_Enemy01_Move_12
+  - first:
+      213: 3465171103435622134
+    second: Pixtogether4_Enemy01_Move_13
+  - first:
+      213: -6592091581711842357
+    second: Pixtogether4_Enemy01_Move_14
+  - first:
+      213: 7613994250122508835
+    second: Pixtogether4_Enemy01_Move_15
+  - first:
+      213: 6918072408234987481
+    second: Pixtogether4_Enemy01_Move_16
+  - first:
+      213: 8729254860180954327
+    second: Pixtogether4_Enemy01_Move_17
+  - first:
+      213: 6556367348312271329
+    second: Pixtogether4_Enemy01_Move_18
+  - first:
+      213: -4669787699861309084
+    second: Pixtogether4_Enemy01_Move_19
+  - first:
+      213: 5404819211311008654
+    second: Pixtogether4_Enemy01_Move_20
+  - first:
+      213: -550330170524020914
+    second: Pixtogether4_Enemy01_Move_21
+  - first:
+      213: -11421053970355881
+    second: Pixtogether4_Enemy01_Move_22
+  - first:
+      213: 501916264470770935
+    second: Pixtogether4_Enemy01_Move_23
+  - first:
+      213: 6289950653769911058
+    second: Pixtogether4_Enemy01_Move_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c20416f1b5ced0800000000000000
+      internalID: -2394311956421752796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a8272b946b8d870800000000000000
+      internalID: 8707910307163572867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 16
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ca06d7b3fa4a0a0800000000000000
+      internalID: -6871174461419115458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806444af86dfc240800000000000000
+      internalID: 4814302439106961537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e10025f5f43cc0800000000000000
+      internalID: -3732087758030511385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 17
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664805b4a61ed9150800000000000000
+      internalID: 5881104535062086758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 16
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e88fa0a42d05e00800000000000000
+      internalID: 1031555530121317902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 17
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654601d450ce77e70800000000000000
+      internalID: 9113011878519399510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 17
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9750314f88dccf0800000000000000
+      internalID: -230377424053503552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 17
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0808f928694020800000000000000
+      internalID: 2326505211977797249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 17
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5aba2e3dd7d04a0800000000000000
+      internalID: -6625501127797660177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 16
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b45666f16ff4c0800000000000000
+      internalID: -4251571812307781563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 16
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aef78332a10de30800000000000000
+      internalID: 4526146364081433126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_13
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 16
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f68a3262c2c61030800000000000000
+      internalID: 3465171103435622134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_14
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 16
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3093102af2484a0800000000000000
+      internalID: -6592091581711842357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_16
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 16
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0747a33ee10060800000000000000
+      internalID: 6918072408234987481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixtogether4_Enemy01_Move_18
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 17
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96f1dbd55ecfa50800000000000000
+      internalID: 6556367348312271329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

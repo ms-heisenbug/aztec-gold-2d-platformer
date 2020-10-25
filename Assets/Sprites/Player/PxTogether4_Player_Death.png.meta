@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: b883be4ce5a8f9b4daf8b1961ae2f7fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6296818544754463099
+    second: PxTogether4_Player_Death_0
+  - first:
+      213: 3912477673810858207
+    second: PxTogether4_Player_Death_1
+  - first:
+      213: 5503241829430053094
+    second: PxTogether4_Player_Death_2
+  - first:
+      213: -2884234702313485898
+    second: PxTogether4_Player_Death_3
+  - first:
+      213: 5065129062195072388
+    second: PxTogether4_Player_Death_4
+  - first:
+      213: 602363229061109854
+    second: PxTogether4_Player_Death_5
+  - first:
+      213: -8593034295588724555
+    second: PxTogether4_Player_Death_6
+  - first:
+      213: 3463151560137042697
+    second: PxTogether4_Player_Death_7
+  - first:
+      213: -9051508517711902399
+    second: PxTogether4_Player_Death_8
+  - first:
+      213: 2816525783437456180
+    second: PxTogether4_Player_Death_9
+  - first:
+      213: 7646969461670383391
+    second: PxTogether4_Player_Death_10
+  - first:
+      213: -4985381171509576597
+    second: PxTogether4_Player_Death_11
+  - first:
+      213: 7159709539638140587
+    second: PxTogether4_Player_Death_12
+  - first:
+      213: -6301597652269297800
+    second: PxTogether4_Player_Death_13
+  - first:
+      213: -719377418632370589
+    second: PxTogether4_Player_Death_14
+  - first:
+      213: -1482436701773712681
+    second: PxTogether4_Player_Death_15
+  - first:
+      213: -4509364194782153440
+    second: PxTogether4_Player_Death_16
+  - first:
+      213: 5032857953942868258
+    second: PxTogether4_Player_Death_17
+  - first:
+      213: -3224686265688253008
+    second: PxTogether4_Player_Death_18
+  - first:
+      213: 8926261921196905360
+    second: PxTogether4_Player_Death_19
+  - first:
+      213: -6443257979339224916
+    second: PxTogether4_Player_Death_20
+  - first:
+      213: 3720197827339307622
+    second: PxTogether4_Player_Death_21
+  - first:
+      213: -2519222915346586417
+    second: PxTogether4_Player_Death_22
+  - first:
+      213: -8666486391063181863
+    second: PxTogether4_Player_Death_23
+  - first:
+      213: -3159573927554031536
+    second: PxTogether4_Player_Death_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 21
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e61d045e43d98a0800000000000000
+      internalID: -6296818544754463099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 22
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0942317b9eb4630800000000000000
+      internalID: 3912477673810858207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 16
+        width: 26
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8cf3459417f5c40800000000000000
+      internalID: 5503241829430053094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 16
+        width: 26
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b900cfc1d329f7d0800000000000000
+      internalID: -2884234702313485898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 16
+        width: 15
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d05adbb04fa4640800000000000000
+      internalID: 5065129062195072388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 16
+        width: 26
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d1f55a260c5800800000000000000
+      internalID: 602363229061109854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 16
+        width: 15
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b06fa406d86fb880800000000000000
+      internalID: -8593034295588724555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 16
+        width: 26
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bee41def59f0030800000000000000
+      internalID: 3463151560137042697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 16
+        width: 27
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1490c58c5f4926280800000000000000
+      internalID: -9051508517711902399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 16
+        width: 28
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f8f13c53e7f1a60800000000000000
+      internalID: 7646969461670383391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 16
+        width: 15
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c304afc3e50dab0800000000000000
+      internalID: -4985381171509576597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_13
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 16
+        width: 28
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8d03925a3c88a0800000000000000
+      internalID: -6301597652269297800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_14
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 16
+        width: 14
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366eaf69c024406f0800000000000000
+      internalID: -719377418632370589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_15
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 16
+        width: 15
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b6cc8ca35d6be0800000000000000
+      internalID: -1482436701773712681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_17
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 16
+        width: 29
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22193c5d4ad48d540800000000000000
+      internalID: 5032857953942868258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_19
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 16
+        width: 15
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09399098ce370eb70800000000000000
+      internalID: 8926261921196905360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_20
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 16
+        width: 31
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8c8417103f496a0800000000000000
+      internalID: -6443257979339224916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_21
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 16
+        width: 16
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4db8a63cc0a330800000000000000
+      internalID: 3720197827339307622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_22
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 16
+        width: 16
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42ebc1b1ce90dd0800000000000000
+      internalID: -2519222915346586417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_23
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 16
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50ce95b847ab780800000000000000
+      internalID: -8666486391063181863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PxTogether4_Player_Death_24
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 16
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0506e86c040f624d0800000000000000
+      internalID: -3159573927554031536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
