@@ -19,6 +19,11 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private LayerMask ground;
 
+    private int maxHealth;
+    private int currentHealth;
+    [SerializeField] HealthManager healthManager;
+
+
     private void Awake()
     {
         moveSpeed = 5.5f;
@@ -31,6 +36,12 @@ public class PlayerController : MonoBehaviour
 
         facingRight = true;
 
+
+        #region Health
+        maxHealth = 100;
+        healthManager.SetMaxHealth(maxHealth);
+        currentHealth = maxHealth;
+        #endregion
     }
 
     private void Attack()
@@ -47,7 +58,6 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
     }
-
 
 
     void Update()
@@ -93,5 +103,24 @@ public class PlayerController : MonoBehaviour
     private void OnDisable()
     {
         controls.Disable();
+    }
+
+    void TakeDamage(int dmg)
+    {
+        if (currentHealth - dmg <= 0)
+        {
+            animator.Play("Player_Death");
+        }
+
+        currentHealth -= dmg;
+        healthManager.SetHealth(currentHealth);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag.Equals("Spike"))
+        {
+            TakeDamage(10);
+        }
     }
 }
