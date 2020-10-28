@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class EnemyController : MonoBehaviour
     [SerializeField] float castRange;
 
     [SerializeField] Transform player;
+    [SerializeField] GameObject enemyObj;
 
     Rigidbody2D rb;
     [SerializeField] float moveSpeed;
@@ -22,6 +24,9 @@ public class EnemyController : MonoBehaviour
     bool isSearching;
     bool isNearPlayer;
 
+    int health;
+    int currentHealth;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -30,6 +35,8 @@ public class EnemyController : MonoBehaviour
         isFacingRight = true;
         isNearPlayer = false;
         isSearching = false;
+        health = 100;
+        currentHealth = health;
     }
 
     void FixedUpdate()
@@ -177,5 +184,26 @@ public class EnemyController : MonoBehaviour
         }
 
         return val;
+    }
+
+    public void TakeDamage(int dmg)
+    {
+        currentHealth -= dmg;
+        animator.SetTrigger("Hit");
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        animator.SetBool("IsDead", true);
+
+        GetComponent<Collider2D>().enabled = false;
+        this.enabled = false;
+
+        GameObject.Destroy(enemyObj, 2f);
     }
 }

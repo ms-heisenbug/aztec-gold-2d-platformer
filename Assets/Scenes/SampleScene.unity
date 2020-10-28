@@ -468,6 +468,7 @@ MonoBehaviour:
   hitRange: 0.5
   castRange: 3
   player: {fileID: 1195726350}
+  enemyObj: {fileID: 291760372}
   moveSpeed: 3
   isEnemyPatrol: 0
 --- !u!4 &291760378 stripped
@@ -1496,6 +1497,7 @@ MonoBehaviour:
   hitRange: 0.3
   castRange: 3
   player: {fileID: 1195726350}
+  enemyObj: {fileID: 0}
   moveSpeed: 3
   isEnemyPatrol: 1
 --- !u!4 &884266719 stripped
@@ -2346,7 +2348,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150611, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150611, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_Offset.y
@@ -2396,6 +2398,36 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 490396314424754514, guid: 6c8af7a966ff8fb49884a330f8dce952, type: 3}
   m_PrefabInstance: {fileID: 1980937849}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1375710530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1375710531}
+  m_Layer: 9
+  m_Name: AttackPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 7148428337604731935, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1375710531
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375710530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.92, y: -0.05, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1195726350}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1419949915
 GameObject:
   m_ObjectHideFlags: 0
@@ -2547,6 +2579,18 @@ PrefabInstance:
       propertyPath: healthManager
       value: 
       objectReference: {fileID: 1016854492}
+    - target: {fileID: 6585921003267067362, guid: ab8b180d157588845ba9778787b34e66, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 1375710531}
+    - target: {fileID: 6585921003267067362, guid: ab8b180d157588845ba9778787b34e66, type: 3}
+      propertyPath: attackRange
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6585921003267067362, guid: ab8b180d157588845ba9778787b34e66, type: 3}
+      propertyPath: attackRate
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6585921003267067368, guid: ab8b180d157588845ba9778787b34e66, type: 3}
       propertyPath: m_Name
       value: Player
@@ -2565,7 +2609,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6585921003267067372, guid: ab8b180d157588845ba9778787b34e66, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -11.88
+      value: 4.17
       objectReference: {fileID: 0}
     - target: {fileID: 6585921003267067372, guid: ab8b180d157588845ba9778787b34e66, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2908,7 +2952,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150609, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.12
+      value: -2.127
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150609, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2956,15 +3000,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150611, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_Offset.y
-      value: -0.9407487
+      value: -0.9243926
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150611, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_Size.y
-      value: 1.2499766
+      value: 1.2172644
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150611, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1639082807182150611, guid: 7f8338ee62f592a49a9a883856f4f07d, type: 3}
       propertyPath: m_Material
@@ -4226,6 +4270,10 @@ PrefabInstance:
     - target: {fileID: 2443395857976070279, guid: 9320a98cfe7f4734ba1752e03f352b13, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443395857976070279, guid: 9320a98cfe7f4734ba1752e03f352b13, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2443395857976070283, guid: 9320a98cfe7f4734ba1752e03f352b13, type: 3}
       propertyPath: m_LocalPosition.x

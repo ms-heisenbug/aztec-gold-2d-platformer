@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.InputSystem.Interactions;
+﻿using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -17,12 +13,16 @@ public class PlayerController : MonoBehaviour
 
     private bool facingRight;
 
-    [SerializeField] private LayerMask ground;
+    //[SerializeField] private LayerMask ground;
 
     private int maxHealth;
     private int currentHealth;
     [SerializeField] HealthManager healthManager;
 
+    [SerializeField] Transform attackPoint;
+    [SerializeField] float attackRange;
+    [SerializeField] float attackRate;
+    float nextAttack;
 
     private void Awake()
     {
@@ -42,11 +42,20 @@ public class PlayerController : MonoBehaviour
         healthManager.SetMaxHealth(maxHealth);
         currentHealth = maxHealth;
         #endregion
+
+        nextAttack = 0f;
     }
 
     private void Attack()
     {
+        animator.Play("Player_Attack");
 
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, 1 << LayerMask.NameToLayer("Enemies"));
+
+        foreach(Collider2D enemy in hitEnemies)
+        {
+            enemy.GetComponent<EnemyController>().TakeDamage(25);
+        }
     }
 
     private void Flip()
@@ -62,11 +71,15 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        isGrounded = Physics2D.IsTouchingLayers(collider, ground);
+        isGrounded = Physics2D.IsTouchingLayers(collider, 1 << LayerMask.NameToLayer("Ground"));
 
-        if (controls.Player.Attack.triggered)
+        if (Time.time >= nextAttack)
         {
-            animator.Play("Player_Attack");
+            if (controls.Player.Attack.triggered)
+            {
+                Attack();
+                nextAttack = Time.time  + 1f / attackRate;
+            }
         }
 
         if (controls.Player.Jump.triggered && isGrounded)
@@ -75,7 +88,6 @@ public class PlayerController : MonoBehaviour
             animator.Play("Player_Jump");
         }
 
-       
     }
 
     private void FixedUpdate()
