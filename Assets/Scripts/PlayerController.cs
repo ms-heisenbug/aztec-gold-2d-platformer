@@ -64,10 +64,6 @@ public class PlayerController : MonoBehaviour
         transform.Rotate(Vector3.up * 180);
     }
 
-    void Start()
-    {
-    }
-
 
     void Update()
     {
@@ -117,7 +113,7 @@ public class PlayerController : MonoBehaviour
         controls.Disable();
     }
 
-    void TakeDamage(int dmg)
+    public void TakeDamage(int dmg)
     {
         if (currentHealth - dmg <= 0)
         {

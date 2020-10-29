@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Linq;
 using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
     [SerializeField] Transform hitCastPosition; //to check if enemy hits sth
     [SerializeField] Transform castingRayPosition;  //to cast ray to follow player
+    [SerializeField] Transform attackPoint;  
 
     [SerializeField] float hitRange;
     [SerializeField] float castRange;
@@ -27,6 +29,10 @@ public class EnemyController : MonoBehaviour
     int health;
     int currentHealth;
 
+    bool isAttacking;
+    float nextAttack;
+    float attackRate;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -37,6 +43,9 @@ public class EnemyController : MonoBehaviour
         isSearching = false;
         health = 100;
         currentHealth = health;
+        isAttacking = false;
+        nextAttack = 0f;
+        attackRate = 2f;
     }
 
     void FixedUpdate()
@@ -45,6 +54,17 @@ public class EnemyController : MonoBehaviour
         {
             StopChase();
             Flip();
+        }
+        else if (IsPlayerWithinAttackRange() && Time.time >= nextAttack)
+        {
+            rb.velocity = Vector2.zero;
+            animator.Play("Enemy_Attack");
+            Attack();
+            nextAttack = Time.time + 1f / attackRate;
+        }
+        else if (IsPlayerTooClose())
+        {
+            StopChase();
         }
         else
         {
@@ -57,6 +77,27 @@ public class EnemyController : MonoBehaviour
             animator.SetFloat("Speed", moveSpeed);
             rb.velocity = new Vector2(velocityX, 0);
         }
+
+        isAttacking = false;
+    }
+
+    private bool IsPlayerTooClose()
+    {
+        return Physics2D.OverlapCircleAll(castingRayPosition.position, 0.2f, 1 << LayerMask.NameToLayer("Playground")).Any();
+    }
+
+    private void Attack()
+    {
+        if(!isAttacking)
+        {
+            player.GetComponent<PlayerController>().TakeDamage(1);
+            isAttacking = true;
+        }
+    }
+
+    private bool IsPlayerWithinAttackRange()
+    {
+        return Physics2D.OverlapCircleAll(attackPoint.position, 2f, 1 << LayerMask.NameToLayer("Playground")).Any();
     }
 
     private void Flip()
