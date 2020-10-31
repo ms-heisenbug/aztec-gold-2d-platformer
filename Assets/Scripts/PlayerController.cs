@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -159,11 +160,21 @@ public class PlayerController : MonoBehaviour
     {
         if (currentHealth - dmg <= 0)
         {
-            animator.Play("Player_Death");
+            Die();
         }
 
         currentHealth -= dmg;
         healthManager.SetHealth(currentHealth);
+    }
+
+    private void Die()
+    {
+        if(currentHealth != 0)
+        {
+            currentHealth = 0;
+        }
+
+        animator.Play("Player_Death");
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -171,6 +182,10 @@ public class PlayerController : MonoBehaviour
         if (collision.tag.Equals("Spike"))
         {
             TakeDamage(10);
+        }
+        else if (collision.tag.Equals("Lava"))
+        {
+            Die();
         }
     }
 
