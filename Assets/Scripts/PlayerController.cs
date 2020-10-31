@@ -24,6 +24,14 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float attackRate;
     float nextAttack;
 
+    float coyoteeTime = .2f;    //how long player can continue to press the jump button after he's walked off the edge
+    float coyoteeCounter;
+
+    float jumpBufferLength = .3f;
+    float jumpBufferCount;
+
+    [SerializeField] ParticleSystem dust;
+
     private void Awake()
     {
         moveSpeed = 5.5f;
@@ -58,16 +66,57 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    private void Start()
+    {
+        //on press
+        controls.Player.Jump.started += _ =>
+        {
+            jumpBufferCount = jumpBufferLength;
+
+            if (coyoteeCounter > 0f)
+            {
+                animator.Play("Player_Jump");
+                CreateDust();
+            }
+        };
+
+        //on release
+        controls.Player.Jump.canceled += _ =>
+        {
+            if(rb.velocity.y > 0)
+            {
+                rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * .5f);
+            }
+        };
+    }
+
     private void Flip()
     {
+        CreateDust();
         facingRight = !facingRight;
         transform.Rotate(Vector3.up * 180);
     }
 
-
     void Update()
     {
         isGrounded = Physics2D.IsTouchingLayers(collider, 1 << LayerMask.NameToLayer("Ground"));
+
+        if (isGrounded)
+        {
+            coyoteeCounter = coyoteeTime;
+        }
+        else
+        {
+            coyoteeCounter -= Time.deltaTime;
+        }
+
+        jumpBufferCount -= Time.deltaTime;
+
+        if(jumpBufferCount >= 0 && coyoteeCounter > 0f)
+        {
+            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            jumpBufferCount = 0;
+        }
 
         if (Time.time >= nextAttack)
         {
@@ -77,13 +126,6 @@ public class PlayerController : MonoBehaviour
                 nextAttack = Time.time  + 1f / attackRate;
             }
         }
-
-        if (controls.Player.Jump.triggered && isGrounded)
-        {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            animator.Play("Player_Jump");
-        }
-
     }
 
     private void FixedUpdate()
@@ -130,5 +172,10 @@ public class PlayerController : MonoBehaviour
         {
             TakeDamage(10);
         }
+    }
+
+    void CreateDust()
+    {
+        dust.Play();
     }
 }
