@@ -175,6 +175,8 @@ public class PlayerController : MonoBehaviour
         }
 
         animator.Play("Player_Death");
+        //GetComponent<GameObject>().SetActive(false);
+        FindObjectOfType<GameManager>().EndGame();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -185,6 +187,7 @@ public class PlayerController : MonoBehaviour
         }
         else if (collision.tag.Equals("Lava"))
         {
+            Debug.Log("Lava");
             Die();
         }
     }
