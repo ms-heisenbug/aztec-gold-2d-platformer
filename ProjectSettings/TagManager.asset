@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Spike
   - Lava
+  - Door
   layers:
   - Default
   - TransparentFX

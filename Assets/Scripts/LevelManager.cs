@@ -38,7 +38,11 @@ public class LevelManager : MonoBehaviour
 
     void Update()
     {
-        
+        if(orbsFound == orbsNeeded)
+        {
+            GameObject.Find("Door").transform.GetChild(0).gameObject.SetActive(false);
+            GameObject.Find("Door").transform.GetChild(1).gameObject.SetActive(true);
+        }
     }
 
     public void OrbFound()
