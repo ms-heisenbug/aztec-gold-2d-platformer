@@ -10,6 +10,11 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject player;
     [SerializeField] GameObject playerStartPoint;
 
+    private void Start()
+    {
+        player.transform.position = playerStartPoint.transform.position;
+    }
+
     public void EndGame()
     {
         player.gameObject.SetActive(false);

@@ -33,6 +33,8 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] ParticleSystem dust;
 
+    float timeInAir;
+
     private void Awake()
     {
         moveSpeed = 5.5f;
@@ -53,6 +55,8 @@ public class PlayerController : MonoBehaviour
         #endregion
 
         nextAttack = 0f;
+
+        timeInAir = 0f;
     }
 
     private void Attack()
@@ -127,6 +131,30 @@ public class PlayerController : MonoBehaviour
                 nextAttack = Time.time  + 1f / attackRate;
             }
         }
+
+        HesDeadJim();
+
+    }
+
+    private void HesDeadJim()
+    {
+        if (isGrounded)
+        {
+            timeInAir = 0;
+        }
+        else
+        {
+            timeInAir += Time.deltaTime;
+        }
+
+        if(timeInAir > 5f)
+        {
+            Die();
+        }
+        //else if (timeInAir >= 1.5f && timeInAir <= 3f)
+        //{
+        //    TakeDamage((int)Mathf.Ceil(timeInAir) * 2);
+        //}
     }
 
     private void FixedUpdate()
@@ -175,7 +203,6 @@ public class PlayerController : MonoBehaviour
         }
 
         animator.Play("Player_Death");
-        //GetComponent<GameObject>().SetActive(false);
         FindObjectOfType<GameManager>().EndGame();
     }
 
@@ -189,6 +216,11 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("Lava");
             Die();
+        }
+        else if (collision.tag.Equals("End"))
+        {
+            Debug.Log("End");
+            LevelManager.ShowEndScreen();
         }
     }
 
