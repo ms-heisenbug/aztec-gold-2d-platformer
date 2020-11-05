@@ -133,7 +133,6 @@ public class PlayerController : MonoBehaviour
         }
 
         HesDeadJim();
-
     }
 
     private void HesDeadJim()
@@ -147,7 +146,7 @@ public class PlayerController : MonoBehaviour
             timeInAir += Time.deltaTime;
         }
 
-        if(timeInAir > 5f)
+        if(timeInAir > 8f)
         {
             Die();
         }
@@ -219,7 +218,6 @@ public class PlayerController : MonoBehaviour
         }
         else if (collision.tag.Equals("End"))
         {
-            Debug.Log("End");
             LevelManager.ShowEndScreen();
         }
     }

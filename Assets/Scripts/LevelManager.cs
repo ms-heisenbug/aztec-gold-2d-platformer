@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -12,7 +13,7 @@ public class LevelManager : MonoBehaviour
     [SerializeField] Sprite[] totemSprites;
     GameObject totemImgs;
 
-    float timer;
+    static float timer;
 
     //TODO: to nie powinno byc serializable
     //[SerializeField] TextMeshProUGUI timerText;
@@ -44,7 +45,6 @@ public class LevelManager : MonoBehaviour
 
     void Start()
     {
-        DontDestroyOnLoad(gameObject);
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
@@ -53,7 +53,6 @@ public class LevelManager : MonoBehaviour
         if (arg0.name.Equals("EndScreen"))
         {
             float t = timer;
-            //timerText.text += t.ToString();
         }
         timer = 0;
     }
@@ -85,11 +84,13 @@ public class LevelManager : MonoBehaviour
     {
         if (DoorOpened())
         {
+            float t = timer;
+            LevelCompleteManager.SetTimer(t.ToString());
+
             SceneManager.LoadScene("EndScreen");
         }
     }
 
-    //TODO: zle liczy
     private static bool DoorOpened()
     {
         Debug.Log("orbs found: " + orbsFound);
