@@ -10,7 +10,7 @@ public class CameraFollower : MonoBehaviour
         GetComponent<Camera>().orthographicSize = ((Screen.height / 2) / cameraDistance);
     }
 
-    public void FixedUpdate()
+    public void LateUpdate()
     {
         transform.position = new Vector3(player.position.x, player.position.y, transform.position.z);
     }

@@ -35,6 +35,7 @@ public class GameManager : MonoBehaviour
 
     private void ResetPlayerPosition()
     {
+        player.transform.parent = null;
         player.transform.position = playerStartPoint.transform.position;
         player.gameObject.SetActive(true);
     }

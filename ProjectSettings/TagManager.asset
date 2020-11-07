@@ -8,6 +8,7 @@ TagManager:
   - Lava
   - Door
   - End
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
