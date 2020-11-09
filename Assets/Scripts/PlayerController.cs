@@ -67,7 +67,7 @@ public class PlayerController : MonoBehaviour
 
         foreach(Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<EnemyController>().TakeDamage(25);
+            enemy.GetComponent<EnemyController>().TakeDamage(50);
         }
     }
 
@@ -146,7 +146,7 @@ public class PlayerController : MonoBehaviour
             timeInAir += Time.deltaTime;
         }
 
-        if(timeInAir > 8f)
+        if(timeInAir > 5f)
         {
             Die();
         }
@@ -190,7 +190,22 @@ public class PlayerController : MonoBehaviour
             Die();
         }
 
+        Debug.Log("damage " + dmg);
         currentHealth -= dmg;
+        healthManager.SetHealth(currentHealth);
+    }
+
+    public void Heal()
+    {
+        if(currentHealth + 25 < 100)
+        {
+            currentHealth += 25;
+        }
+        else
+        {
+            currentHealth = 100;
+        }
+
         healthManager.SetHealth(currentHealth);
     }
 
@@ -207,11 +222,7 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag.Equals("Spike"))
-        {
-            TakeDamage(10);
-        }
-        else if (collision.tag.Equals("Lava"))
+        if (collision.tag.Equals("Lava"))
         {
             Debug.Log("Lava");
             Die();
@@ -229,7 +240,13 @@ public class PlayerController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.transform.tag == "MovingPlatform")
+        Debug.Log("collision enter: " + collision.transform.tag);
+
+        if (collision.transform.tag.Equals("Spike"))
+        {
+            TakeDamage(5);
+        }
+        else if (collision.transform.tag.Equals("MovingPlatform"))
         {
             transform.parent = collision.transform;
         }
@@ -241,5 +258,10 @@ public class PlayerController : MonoBehaviour
         {
             transform.parent = null;
         }
+    }
+
+    public int GetCurrentHealth()
+    {
+        return currentHealth;
     }
 }

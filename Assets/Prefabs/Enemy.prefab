@@ -84,7 +84,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2083507347}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.23, y: -1.09, z: 0}
+  m_LocalPosition: {x: 1.936, y: -1.09, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1639082807182150609}
@@ -193,7 +193,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 1.1898223, y: -0.9243926}
+  m_Offset: {x: 1.1852288, y: -0.9243926}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 1}
@@ -204,7 +204,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6218121, y: 1.2172644}
+  m_Size: {x: 1.163866, y: 1.2172644}
   m_EdgeRadius: 0
 --- !u!50 &1639082807182150612
 Rigidbody2D:
@@ -282,4 +282,4 @@ MonoBehaviour:
   player: {fileID: 0}
   enemyObj: {fileID: 1639082807182150614}
   moveSpeed: 3
-  isEnemyPatrol: 0
+  isEnemyPatrol: 1

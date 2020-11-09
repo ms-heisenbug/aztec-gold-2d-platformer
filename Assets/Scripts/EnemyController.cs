@@ -38,14 +38,14 @@ public class EnemyController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         baseScale = transform.localScale;
-        isFacingRight = true;
         isNearPlayer = false;
         isSearching = false;
         health = 100;
         currentHealth = health;
         isAttacking = false;
         nextAttack = 0f;
-        attackRate = 2f;
+        attackRate = 0.5f;
+        isFacingRight = true;
     }
 
     void FixedUpdate()
@@ -90,14 +90,14 @@ public class EnemyController : MonoBehaviour
     {
         if(!isAttacking)
         {
-            player.GetComponent<PlayerController>().TakeDamage(1);
+            player.GetComponent<PlayerController>().TakeDamage(5);
             isAttacking = true;
         }
     }
 
     private bool IsPlayerWithinAttackRange()
     {
-        return Physics2D.OverlapCircleAll(attackPoint.position, 2f, 1 << LayerMask.NameToLayer("Playground")).Any();
+        return Physics2D.OverlapCircleAll(attackPoint.position, 2f, 1 << LayerMask.NameToLayer("Player")).Any();
     }
 
     private void Flip()
@@ -144,7 +144,10 @@ public class EnemyController : MonoBehaviour
 
         Debug.DrawLine(hitCastPosition.position, targetPosition, Color.red);
 
-        return Physics2D.Linecast(hitCastPosition.position, targetPosition, 1 << LayerMask.NameToLayer("Ground"));
+        bool isHittingWall = Physics2D.Linecast(hitCastPosition.position, targetPosition, 1 << LayerMask.NameToLayer("Ground"));
+        bool isHittingSpikes = Physics2D.Linecast(hitCastPosition.position, targetPosition, 1 << LayerMask.NameToLayer("Obstacles"));
+
+        return isHittingWall || isHittingSpikes;
     }
 
     private void StandBy()
@@ -246,5 +249,13 @@ public class EnemyController : MonoBehaviour
         this.enabled = false;
 
         GameObject.Destroy(enemyObj, 2f);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag.Equals("Lava"))
+        {
+            Die();
+        }
     }
 }
