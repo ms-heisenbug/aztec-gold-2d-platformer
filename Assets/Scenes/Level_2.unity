@@ -12686,20 +12686,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brambles
       objectReference: {fileID: 0}
-    - target: {fileID: 3274711919993116433, guid: 823df7a29d68c2145818cc1cd11972df, type: 3}
-      propertyPath: m_Layer
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 3274711919993116434, guid: 823df7a29d68c2145818cc1cd11972df, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3274711919993116435, guid: 823df7a29d68c2145818cc1cd11972df, type: 3}
-      propertyPath: m_SortingOrder
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 3274711919993116434, guid: 823df7a29d68c2145818cc1cd11972df, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 823df7a29d68c2145818cc1cd11972df, type: 3}
 --- !u!1 &897105453
 GameObject:
